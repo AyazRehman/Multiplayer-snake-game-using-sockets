@@ -1,6 +1,6 @@
 # Multiplayer-snake-game-using-sockets
 
-This a multiplayer snake game which you can play with your friends which are on the same network.
+This is a multiplayer snake game which you can play with your friends which are on the same network.
 
 Step 1:
 Run server on one machine by giving the following command: python3 server.py *IP address* *port* *number of players*.
